@@ -1,0 +1,46 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(23,23,23,1) 100%); 
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+
+.contenedor-global{
+    background-image: url(imagenes/wallpaperbetter.com_1920x1080\(1\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    position:relative;
+    height: 366px;
+}
+
+.texto-global{
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}
+.texto-global h1{
+    font-size: 35px;
+    font-style: italic;
+    color: whitesmoke;
+    text-shadow: rgb(0, 0, 0) 10px;
+}
+
+
+
+
+.texto-mg{
+    position:absolute;
+    bottom: 10px;
+    left: 300px;
+}
+.texto-mg h2{
+    font-size: 15px;
+    color: rgb(204, 204, 204);
+}
+
+
