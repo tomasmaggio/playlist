@@ -6,6 +6,18 @@ body{
     background-attachment: fixed;
     margin: 0;
     padding: 0;
+    color: whitesmoke;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+
+table th{
+    border-bottom: 2px solid whitesmoke;
 }
 
 
@@ -21,7 +33,7 @@ body{
 .texto-global{
     position: absolute;
     bottom: 10px;
-    left: 30px;
+    left: 100px;
 }
 .texto-global h1{
     font-size: 35px;
@@ -31,7 +43,9 @@ body{
 }
 
 
-
+.cancion:hover{
+    background-color: rgb(155, 155, 155);
+}
 
 .texto-mg{
     position:absolute;
@@ -41,6 +55,20 @@ body{
 .texto-mg h2{
     font-size: 15px;
     color: rgb(204, 204, 204);
+    width: 300px;
 }
 
+.centrado{
+    text-align: center;
+}
+.alineacion-imagen{
+    float: center;
+    widht: 35px;
+    height: 20px;
+}
 
+.portada img{
+    width: 3em;
+    height: 3em;
+}
+ 
