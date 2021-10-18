@@ -63,12 +63,46 @@ table th{
 }
 .alineacion-imagen{
     float: center;
-    widht: 35px;
+    width: 20px;
     height: 20px;
 }
 
 .portada img{
     width: 3em;
     height: 3em;
+    
 }
- 
+
+a{
+    color: white;
+}
+
+#letra div{
+    float: left;
+    margin: 50px;
+}
+
+#foto-stay{
+    margin: 100px;
+
+}
+.stay-lyrics{
+    margin: 50px;
+}
+
+#titulo-cancion{
+    margin: 20px 50px;
+}
+#subtitulo-cancion{
+    margin: 0px 50px;
+}
+
+#back-top10{
+    margin: 50px 50px;
+    color: rgb(13, 139, 211);
+}
+
+.alineacion-cet30{
+    float: center;
+
+}
