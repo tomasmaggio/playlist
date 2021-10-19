@@ -84,10 +84,19 @@ a{
 
 #foto-stay{
     margin: 100px;
-
 }
+
+#foto-stay img{
+    width: 40em;
+    height: 40em;
+}
+
 .stay-lyrics{
     margin: 50px;
+}
+
+.stay-lyrics p{
+    font-size: 1.40em;
 }
 
 #titulo-cancion{
@@ -102,7 +111,7 @@ a{
     color: rgb(13, 139, 211);
 }
 
-.alineacion-cet30{
-    float: center;
-
+footer{
+    text-align: center;
+    clear: both;
 }
